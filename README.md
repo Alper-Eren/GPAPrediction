@@ -45,9 +45,9 @@ To run this code, you need the following requirements:
 - scikit-learn
 ## Installation
 1.Install the requirements using Anaconda or pip:
-'''
+```
 pip install pandas matplotlib scikit-learn
-'''
+```
 2.Create a dataset named 'dataset.csv' and add columns with the relevant data. The columns should be as follows:
 
 - 'Gender': Student's gender (Female/Male)
